@@ -1,16 +1,15 @@
-### Hi there 👋
+### Wello! :wave:
+>I'm Lopste! More known as Vercte, or lolecksdeehaha.
 
-<!--
-**lopste/lopste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I know quite a bit of programming languages:
 
-Here are some ideas to get you started:
+- Python
+- Javascript
+- Lua
+- LOGO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And some less-regarded-as-programming markup ones:
+> - CSS & HTML
+> - Markdown (of course, that's what I'm writing this in)
+
+Thanks for reading this short bio! One final thing, just look at my projects down there ⬇
