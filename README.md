@@ -1,6 +1,10 @@
 ## Wello! :wave:
 #### I'm Lopste! More known as Vercte, or lolecksdeehaha.
 
+Here's some important info up front:
+- Pronouns: He/Him
+- Timezone: PST
+
 I know quite a bit of programming languages:
 
 - Python
