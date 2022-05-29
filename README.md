@@ -5,19 +5,8 @@ Here's some important info up front:
 - Pronouns: He/Him
 - Timezone: PST
 
-I know quite a bit of programming languages:
+Here's my skills: 
 
-- Python
-- Javascript
-- Lua
-- LOGO
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,raspberrypi,bash,blender,godot&perline=4)](https://skillicons.dev)
 
-And some less-regarded-as-programming markup ones:
-- CSS & HTML
-- Markdown (of course, that's what I'm writing this in)
-
-And other stuff:
-- (some of) Bash
-- Vim
-
-Thanks for reading this short bio! One final thing, just look at my projects down there ⬇
+And that's it! Thanks for reading this short bio! One final thing, just look at my projects down there ⬇
