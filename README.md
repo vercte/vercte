@@ -9,8 +9,7 @@
   </ul><br>
   Here's my skills: <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,raspberrypi,bash,blender,godot&perline=4" /><br>
-    <img src="https://skillicons.dev/icons?i=vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,lua,bash,blender,godot,vim,vscode,linux,raspberrypi&perline=4" />
   </a><br>
   And that's it! Thanks for reading this short bio! One final thing, just look at my projects down there ⬇
 </p>
