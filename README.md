@@ -1,3 +1,5 @@
+[![lopste's GitHub stats](https://github-readme-stats.vercel.app/api?username=lopste&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <h1>Wello! :wave:</h1>
   <h3>I'm Lopste! More known as Vercte, or lolecksdeehaha.</h3>
