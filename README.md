@@ -1,5 +1,3 @@
-[![lopste's GitHub stats](https://github-readme-stats.vercel.app/api?username=vercte&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vercte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <h1>hi</h1>
   <h3>I'm Vercte! You may know me as lolecksdeehaha on Scratch.</h3>
